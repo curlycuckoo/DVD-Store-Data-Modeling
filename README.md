@@ -2,7 +2,12 @@
  
 # Introduction
 
-In this project, we have queried the DVD Rental database. The database was originally contained within a file  called xxxx.gz. The database holds information about a company with stores that rent movie DVDs. There are 15 total tables in the database, which are related to each other.  For this project, we created data models to: 
+In this project, we have queried the DVD Rental database. The database was originally contained within a file  called xxxx.gz. The database holds information about a company with stores that rent movie DVDs. There are 15 total tables in the database, which are related to each other.  
+
+![image](https://user-images.githubusercontent.com/59931296/131265132-35c0b175-8d81-4735-b13a-fc9db9647945.png)
+
+
+For this project, we created data models to: 
 - Cut costs and achieve faster time to value for business analysts
 - Understand and improve business processes that are commonly used
 - Reduce complexity and risk for reporting. 
