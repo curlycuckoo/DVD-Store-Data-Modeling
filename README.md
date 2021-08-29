@@ -4,7 +4,8 @@
 
 In this project, we have queried the DVD Rental database. The database was originally contained within a file  called xxxx.gz. The database holds information about a company with stores that rent movie DVDs. There are 15 total tables in the database, which are related to each other.  
 
-![image](https://user-images.githubusercontent.com/59931296/131265132-35c0b175-8d81-4735-b13a-fc9db9647945.png)
+![image](https://user-images.githubusercontent.com/59931296/131265218-79ff720c-0dbf-4675-be11-51fa7e8254fe.png)
+
 
 
 For this project, we created data models to: 
