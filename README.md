@@ -2,7 +2,7 @@
  
 # Introduction
 
-In this project, we have queried the DVD Rental database. The database holds information about a company with stores that rent movie DVDs. There are originally [15 total tables](#-Data) in the database, which are related to each other.  
+In this project, we have queried the DVD Rental database. The database holds information about a company with stores that rent movie DVDs. There are originally [15 total tables](#https://github.com/curlycuckoo/DVD-Store-Data-Modeling-master/tree/main/Data) in the database, which are related to each other.  
 
 ![image](https://user-images.githubusercontent.com/59931296/131265475-7245b46a-dcaa-4a3d-a83f-98225c9b08ef.png)
 
