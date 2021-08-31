@@ -44,9 +44,9 @@ I also assumed we would be interviewing stakeholders for use cases. Use cases wi
 ### _Modeling and Transformation:_ 
 - Azure Databricks (Environment)
 - PySpark (Database Creation, Table Ingestion, Schema Creation)
-- SparkSQL (Model Creation) 
+- [SparkSQL](https://github.com/curlycuckoo/DVD-Store-Data-Modeling-master/tree/main/src/Databricks) (Model Creation) 
 
 ### _Data Ingestion_
-- Scala (Accessing data from Azure storage accounts) 
+- [Scala](https://github.com/curlycuckoo/DVD-Store-Data-Modeling-master/tree/main/src/Utils) (Accessing data from Azure storage accounts) 
 - Azure Data Factory (Work in Progress) 
 
